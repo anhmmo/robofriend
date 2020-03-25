@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,500i,700&display=swap');
+
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Rubik', sans-serif;
     background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
 }
+
