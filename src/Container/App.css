@@ -1,0 +1,13 @@
+h1 {
+    font-size: 60px !important;
+    text-transform: uppercase !important;
+    color: wheat;
+}
+
+.pa3 {
+    margin-bottom: 3rem;
+}
+
+.pa3::-webkit-search-cancel-button{
+     cursor: pointer;
+}
